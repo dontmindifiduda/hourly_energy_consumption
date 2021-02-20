@@ -12,6 +12,6 @@ The dataset used for this analysis contains hourly energy consumption data scrap
 
 Please see the following Medium articles for a detailed description of each of the forecasting methods included in these examples:
 
-* https://scottmduda.medium.com/predicting-energy-consumption-part-1-ad38f7d7106f
-* https://scottmduda.medium.com/predicting-energy-consumption-part-2-834cf87798ff
+* [Predicting Energy Consumption (Part 1)](https://scottmduda.medium.com/predicting-energy-consumption-part-1-ad38f7d7106f)
+* [Predicting Energy Consumption (Part 2)](https://scottmduda.medium.com/predicting-energy-consumption-part-2-834cf87798ff)
 
